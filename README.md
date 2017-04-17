@@ -38,9 +38,9 @@ You should see `hello world!` as output.
 ## API Reference
 
 * `/ping`
-* `/users/fb_login` STUB. Returns `your face"
+* `/users/fb_login` STUB. Returns "your face"
 * `/users/list` Test API for hibernate stuff
-```
+
 ## Tests
 
 LOL.
