@@ -1,0 +1,5 @@
+Host toiletteer
+  HostName toiletteer.com
+  User ubuntu
+  Port 22
+  IdentityFile ~/.ssh/toiletteer.pem
